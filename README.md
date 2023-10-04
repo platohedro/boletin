@@ -1,1 +1,1 @@
-# Boletin de Platohedro
+# Boletín de Platohedro
